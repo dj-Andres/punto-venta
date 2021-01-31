@@ -1,0 +1,20 @@
+     Demo   
+     Demo   
+DEmostracion
+Tel:DEmostracion
+RFC: DEmostracion
+DEmostracion,DEmostracion.
+Fecha: 9/10/2020
+Hora: 07:42:49
+Ticket: 1-14
+---------------------
+Total  : $280.00
+Su Pago: $300.00
+Cambio : $ 20.00
+     Lo atendio:    
+  andres
+---------------------
+Cant. Art.  Monto
+---------------------
+2.00|GRANDICIMOS
+           280.00
